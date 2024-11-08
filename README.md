@@ -1,6 +1,5 @@
 
 # 🌍 EcoNex: AI-Driven Upcycling Platform
-
 EcoNex
 EcoNex is an AI-driven upcycling platform that transforms waste into valuable products, promoting sustainability and a circular economy. By leveraging generative AI, EcoNex designs upcycled products, engages communities, and provides an integrated marketplace for eco-conscious buyers.
 
@@ -27,4 +26,3 @@ Backend: Flask (Python)
 AI Models: Generative Adversarial Networks (GANs)
 Database: MongoDB (optional for scalable data storage)
 Deployment: Docker (optional for containerization)
-
